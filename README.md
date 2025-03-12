@@ -5,7 +5,7 @@ Hi there, I'm <b>Nur Haznirah Binti Hazman</b>, a fourth-year student pursuing a
 * 🔭 I’m currently working on my final year project (PSM 2).
 
 ## 🤝 Connect with me:
-* 📧 Can contact me at [nurhaznirah@graduate.utm.my](mailto:nurhaznirah@graduate.utm.my)
+* 📧 Can contact me at [nurhaznirahh@gmail.com](mailto:nurhaznirahh@gmail.com)
 * 💬 If you have any questions or feedback, please do not hesitate to reach out to me!
 
 ## 💻 Tech Stack:
